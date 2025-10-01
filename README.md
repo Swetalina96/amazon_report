@@ -18,3 +18,9 @@ File / Resource	Description
 | [`notebooks/` ](https://colab.research.google.com/drive/1MUstvjO4bXOd-gMADB771azdXDWYPWas?usp=drive_link)         | Contains Google Colab notebooks for data preprocessing & EDA |
 | [`dashboards/`   ](https://drive.google.com/file/d/1gm7PgGGVRcGMYSasWTQ_g9tySz_fvufm/view?usp=drive_link)      | Power BI dashboard files (.pbix) for business insights       |
                   ||
+
+🎯 Project Objectives
+📦 Supply Chain Analytics: Monitor delivery trends, operations performance, and inventory planning.
+🛒 Customer & Product Insights: Analyze customer behavior, segmentation, and product performance.
+📈 Advanced Forecasting: Plan seasonal inventory and promotions using demand predictions.
+🧠 BI Command Center: Consolidate KPIs, trends, and alerts for strategic decision-making.
